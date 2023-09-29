@@ -25,3 +25,5 @@ if s:latexbox
         \ 'Please disable or remove it to use VimTeX!',
         \])
 endif
+
+map <buffer> K <Plug>(vimtex-doc-package)
